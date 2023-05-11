@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://pictartist.github.io/sitemap.xml
