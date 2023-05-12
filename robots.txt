@@ -1,3 +1,7 @@
 User-agent: *
 
+Allow: /
+
+
+
 Sitemap: https://pictartist.github.io/sitemap.xml
